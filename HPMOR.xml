@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+    <channel>
+        <title>HPMOR</title>
+        <link>https://hpmorpodcast.com/</link>
+        <description>HPMOR By parts</description>
+        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.6.1 (Build 23G93) https://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Fri, 30 Aug 2024 20:14:11 +0200</pubDate>
+        <lastBuildDate>Fri, 30 Aug 2024 19:14:11 +0200</lastBuildDate>
+        <atom:link href="https://3b06-2a01-599-92d-1e0b-39bf-49f8-c2ee-8b22.ngrok-free.app/hpmor/HPMOR.xml" rel="self" type="application/rss+xml"/>
+        <itunes:image href="https://3b06-2a01-599-92d-1e0b-39bf-49f8-c2ee-8b22.ngrok-free.app/hpmor/HPMoR_Podcast.jpg"/>
+        <itunes:category text="Fiction">
+            <itunes:category text="Science Fiction"/>
+        </itunes:category>
+        <itunes:type>episodic</itunes:type>
+        <podcast:locked>no</podcast:locked>
+        <item>
+            <title>HPMOR Part 6</title>
+            <link>https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_6.mp3</link>
+            <pubDate>Fri, 30 Aug 2024 23:12:49 +0200</pubDate>
+            <enclosure url="https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_6.mp3" length="491912259" type="audio/mpeg"/>
+            <guid isPermaLink="false">266CB880-950F-471E-8A63-270EA0CCBD62</guid>
+            <itunes:duration>44141</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>HPMOR Part 5</title>
+            <link>https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_5.mp3</link>
+            <pubDate>Fri, 30 Aug 2024 22:12:49 +0200</pubDate>
+            <enclosure url="https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_5.mp3" length="491912259" type="audio/mpeg"/>
+            <guid isPermaLink="false">266CB880-950F-471E-8A63-270EA0CCBD61</guid>
+            <itunes:duration>28408</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>HPMOR Part 4</title>
+            <link>https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_4.mp3</link>
+            <pubDate>Fri, 30 Aug 2024 21:12:49 +0200</pubDate>
+            <enclosure url="https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_4.mp3" length="491912259" type="audio/mpeg"/>
+            <guid isPermaLink="false">266CB880-950F-471E-8A63-270EA0CCBD60</guid>
+            <itunes:duration>49231</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>HPMOR Part 3</title>
+            <link>https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_3.mp3</link>
+            <pubDate>Fri, 30 Aug 2024 20:12:49 +0200</pubDate>
+            <enclosure url="https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_3.mp3" length="491912259" type="audio/mpeg"/>
+            <guid isPermaLink="false">266CB880-950F-471E-8A63-270EA0CCBD59</guid>
+            <itunes:duration>47736</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>HPMOR Part 2</title>
+            <link>https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_2.mp3</link>
+            <pubDate>Fri, 30 Aug 2024 19:12:49 +0200</pubDate>
+            <enclosure url="https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_2.mp3" length="491912259" type="audio/mpeg"/>
+            <guid isPermaLink="false">266CB880-950F-471E-8A63-270EA0CCBD58</guid>
+            <itunes:duration>30744</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>HPMOR Part 1</title>
+            <link>https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_1.mp3</link>
+            <pubDate>Fri, 30 Aug 2024 19:00:56 +0200</pubDate>
+            <enclosure url="https://hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Part_1.mp3" length="647707387" type="audio/mpeg"/>
+            <guid isPermaLink="false">D30A7C96-4501-4F9C-A3ED-449CFC262D44</guid>
+            <itunes:duration>40481</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
